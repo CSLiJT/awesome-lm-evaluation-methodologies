@@ -1,6 +1,6 @@
-# Awesome-Language-Model-Evaluation-Methodologies
+# Awesome LM Evaluation Methodologies
 
-- [Awesome-Language-Model-Evaluation-Methodologies](#awesome-language-model-evaluation-methodologies)
+- [Awesome LM Evaluation Methodologies](#awesome-lm-evaluation-methodologies)
   - [How To Use Me](#how-to-use-me)
   - [Evaluation Methodologies](#evaluation-methodologies)
   - [Evaluation Benchmarks](#evaluation-benchmarks)
