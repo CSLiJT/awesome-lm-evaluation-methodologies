@@ -40,6 +40,7 @@
 | Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn Song, Jacob Steinhardt | Measuring Massive Multitask Language Understanding | ICLR 2021 | https://arxiv.org/abs/2009.03300 |
 | Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He | C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models | NeurIPS 2023 | https://arxiv.org/abs/2305.08322 |
 | Zhexin Zhang, Leqi Lei, Lindong Wu, Rui Sun, Yongkang Huang, Chong Long, Xiao Liu, Xuanyu Lei, Jie Tang, Minlie Huang | SafetyBench: Evaluating the Safety of Large Language Models | ACL 2024 | https://aclanthology.org/2024.acl-long.830/ |
+| Haoran Li, Dadi Guo, Donghao Li, Wei Fan, Qi Hu, Xin Liu, Chunkit Chan, Duanyi Yao, Yuan Yao, Yangqiu Song | PrivLM-Bench: A Multi-level Privacy Evaluation Benchmark for Language Models | ACL 2024 | https://aclanthology.org/2024.acl-long.4/ |
 
 ## Survey Papers
 | Author | Title | Proceeding | Link |
