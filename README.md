@@ -18,6 +18,7 @@
 | Author | Title | Proceeding | Link |
 |---|---|---|---|
 | Jiatong Li, et al. | PertEval: Unveiling Real Knowledge Capacity of LLMs with Knowledge-Invariant Perturbations | NeurIPS 2024 | https://arxiv.org/abs/2405.19740 |
+|Jingnan Zheng, et al. |ALI-Agent: Assessing LLMs' Alignment with Human Values via Agent-based Evaluation | NeurIPS 2024 | https://arxiv.org/abs/2405.14125 |
 | Jinhao Duan, et al. | GTBench: Uncovering the Strategic Reasoning Capabilities of LLMs via Game-Theoretic Evaluations | NeurIPS 2024 | https://arxiv.org/abs/2402.12348 |
 | Felipe Maia Polo, et al. | Efficient multi-prompt evaluation of LLMs | NeurIPS 2024 | https://arxiv.org/abs/2405.17202 |
 | Fan Lin, et al. | IDGen: Item Discrimination Induced Prompt Generation for LLM Evaluation | NeurIPS 2024 | https://arxiv.org/abs/2409.18892 |
