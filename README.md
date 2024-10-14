@@ -1,5 +1,13 @@
 # Awesome-Language-Model-Evaluation-Methodologies
-Frontiers in the evaluation methodologies & techniques of language models. 
+
+- [Awesome-Language-Model-Evaluation-Methodologies](#awesome-language-model-evaluation-methodologies)
+  - [How To Use Me](#how-to-use-me)
+  - [Evaluation Methodologies](#evaluation-methodologies)
+  - [Evaluation Benchmarks](#evaluation-benchmarks)
+  - [Survey Papers](#survey-papers)
+
+---
+
 
 ## How To Use Me
 1. In this webpage, press ctrl+F (for Windows)/command + F(for Mac)
