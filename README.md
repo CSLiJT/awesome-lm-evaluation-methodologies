@@ -17,6 +17,7 @@
 ## Evaluation Methodologies
 | Author | Title | Proceeding | Link |
 |---|---|---|---|
+| Mohsen Hariri, et al. | Don't Pass@k: A Bayesian Framework for Large Language Model Evaluation | ICLR 2026 | https://arxiv.org/abs/2510.04265 |
 | Jiatong Li, et al. | PertEval: Unveiling Real Knowledge Capacity of LLMs with Knowledge-Invariant Perturbations | NeurIPS 2024 | https://arxiv.org/abs/2405.19740 |
 |Jingnan Zheng, et al. |ALI-Agent: Assessing LLMs' Alignment with Human Values via Agent-based Evaluation | NeurIPS 2024 | https://arxiv.org/abs/2405.14125 |
 | Jinhao Duan, et al. | GTBench: Uncovering the Strategic Reasoning Capabilities of LLMs via Game-Theoretic Evaluations | NeurIPS 2024 | https://arxiv.org/abs/2402.12348 |
